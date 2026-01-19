@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkothiyal1&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkothiyal1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhkothiyal1" alt="rishabhkothiyal1" /></a> </p>
+<br>
 
 - 🌱 I’m currently learning **Cloud Security & Data Analytics on Google Cloud**
 
-- 🔐 I’m practicing ****Cybersecurity** fundamentals through CTF challenges.**
+- 🔐 I’m practicing **Cybersecurity** fundamentals through CTF challenges.
 
 - 👨‍💻 All of my projects are available at [rishabhkothiyal.site](rishabhkothiyal.site)
 
@@ -22,9 +22,7 @@
 <a href="https://linkedin.com/in/rishabhkothiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabhkothiyal" height="30" width="40" /></a>
 <a href="https://kaggle.com/rishabhkothiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishabhkothiyal" height="30" width="40" /></a>
 <a href="https://www.behance.net/rishabhkothiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rishabhkothiyal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishabhkothiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishabhkothiyal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishabhkothiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhkothiyal" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/201007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="201007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
