@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kothiyal</h1>
 <h3 align="center">Google Cloud Innovator | AI Systems Integration | Cybersecurity | LLM | Data Analytics | Full Stack Developer</h3>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36764167-bc2f-4d0d-8f8e-4f831a9ffe47" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkothiyal1&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkothiyal1" /> </p>
 
