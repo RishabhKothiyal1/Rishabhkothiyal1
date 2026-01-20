@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kothiyal</h1>
 <h3 align="center">Google Cloud Innovator | AI Systems Integration | Cybersecurity | LLM | Data Analytics | Full Stack Developer</h3>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36764167-bc2f-4d0d-8f8e-4f831a9ffe47" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkothiyal1&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkothiyal1" /> </p>
 
